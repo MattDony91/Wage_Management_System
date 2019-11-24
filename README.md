@@ -29,7 +29,7 @@
 
 - DB ERD
 
-![db_erd](C:%5CUsers%5CDON%5CDesktop%5Cproject_wage_management_system%5Cassets%5Cdb_erd.png)
+![db_erd](README.assets/db_erd.png)
 
 
 
@@ -48,24 +48,24 @@
 
   - 로그인 창과 로그인 실패 경고창
 
-    ![image-20191125003031092](C:%5CUsers%5CDON%5CDesktop%5Cproject_wage_management_system%5Cassets%5Cimage-20191125003031092.png)
+    ![image-20191125003031092](README.assets/image-20191125003031092.png)
 
   - 관리자 사원 검색 화면
 
-    ![image-20191125003459390](C:%5CUsers%5CDON%5CDesktop%5Cproject_wage_management_system%5Cassets%5Cimage-20191125003459390.png)
+    ![image-20191125003459390](README.assets/image-20191125003459390.png)
 
   - 검색한 사원을 더블 클릭했을 때 보이는 정보
 
-    ![image-20191125003800913](C:%5CUsers%5CDON%5CDesktop%5Cproject_wage_management_system%5Cassets%5Cimage-20191125003800913.png)
+    ![image-20191125003800913](README.assets/image-20191125003800913.png)
 
   - 신입사원을 추가 버튼을 눌렀을 때
 
-    ![image-20191125005121322](C:%5CUsers%5CDON%5CDesktop%5Cproject_wage_management_system%5Cassets%5Cimage-20191125005121322.png)
+    ![image-20191125005121322](README.assets/image-20191125005121322.png)
 
   - 회원 삭제시 확인 작업 필요
 
-    ![image-20191125005850984](C:%5CUsers%5CDON%5CDesktop%5Cproject_wage_management_system%5Cassets%5Cimage-20191125005850984.png)
+    ![image-20191125005850984](README.assets/image-20191125005850984.png)
 
   - 사원 로그인 화면
 
-    ![image-20191125005920262](C:%5CUsers%5CDON%5CDesktop%5Cproject_wage_management_system%5Cassets%5Cimage-20191125005920262.png)
+    ![image-20191125005920262](README.assets/image-20191125005920262.png)
