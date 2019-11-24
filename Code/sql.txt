@@ -1,0 +1,8 @@
+SELECT e.emp_no, e.emp_name, d.dept_name, s.cer_ser, s.car_ser, s.adopt_type
+FROM emp e, dept d, sal_mgt s
+WHERE e.emp_no = s.emp_no
+AND e.dept_no = d.dept_no
+AND s.basic_pay+s.cer_pay+s.car_pay BETWEEN 3000000 AND 5000000
+AND s.cer_ser = 'LINM'
+AND s.car_ser = 'J07'
+AND s.adopt_type = 'RJ'
